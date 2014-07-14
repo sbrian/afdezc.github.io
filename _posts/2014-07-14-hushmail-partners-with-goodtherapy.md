@@ -17,7 +17,7 @@ These messages may not be HIPAA compliant, since people other than the client ma
 
 **Hushmail**'s security option prevents any intercepted data to be read or altered, ensuring the privacy and confidentiality of the emails. This offers an added bonus for clients who are leery of communicating via email. New clients can email therapists requesting appointments and tackling other administrative tasks safe in the knowledge their data is protected from prying eyes. Security options also allow therapists to communicate with clients via email without revealing the client's identity to third parties or hackers.
 
-At GoodTherapy.org, we are committed to reducing harm and protecting the best interest of those in therapy and we’re thrilled that Hushmail has developed a service which will enable therapists to more reliably protect the privacy and confidentiality of their clients electronically.
+At GoodTherapy.org, we are committed to reducing harm and protecting the best interest of those in therapy and we’re thrilled that **Hushmail** has developed a service which will enable therapists to more reliably protect the privacy and confidentiality of their clients electronically.
 
 Noah Rubinstein, LMFT, 
 

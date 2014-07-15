@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GoodTherapy.org Partners With Hushmail to Promote Confidential Email for Therapists
+title: Hushmail Partners With GoodTherapy.org to Promote Confidential Email for Therapists
 ---
 As the founder and CEO of GoodTherapy.org, I’m pleased to announce a new partnership with Hushmail, the only email service of its kind dedicated to protecting the confidentially of its users and allowing people to send email securely.
 

@@ -1,4 +1,4 @@
-hush_blog
+Test blog
 =========
 
 Testing for blog

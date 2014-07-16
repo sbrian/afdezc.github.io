@@ -2,8 +2,8 @@
 title: Hushmail Blog
 email: anabeli@hush.com
 description: "Security and privacy"
-baseurl: ""
-url: "http://blog.hushmail.com"
+baseurl: "blog"
+url: "https://www.hushmail.com"
 twitter_username: hushmail
 
 # Build settings
